@@ -1,0 +1,8 @@
+C:\Users\henry\source\repos\dotframe\dotframe\obj\Debug\dotframe.csproj.AssemblyReference.cache
+C:\Users\henry\source\repos\dotframe\dotframe\obj\Debug\dotframe.csproj.SuggestedBindingRedirects.cache
+C:\Users\henry\source\repos\dotframe\dotframe\obj\Debug\dotframe.csproj.CoreCompileInputs.cache
+C:\Users\henry\source\repos\dotframe\dotframe\bin\Debug\dotframe.exe.config
+C:\Users\henry\source\repos\dotframe\dotframe\bin\Debug\dotframe.exe
+C:\Users\henry\source\repos\dotframe\dotframe\bin\Debug\dotframe.pdb
+C:\Users\henry\source\repos\dotframe\dotframe\obj\Debug\dotframe.exe
+C:\Users\henry\source\repos\dotframe\dotframe\obj\Debug\dotframe.pdb
